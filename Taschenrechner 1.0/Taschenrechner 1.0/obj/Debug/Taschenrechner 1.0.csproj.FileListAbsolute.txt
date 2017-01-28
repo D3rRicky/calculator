@@ -1,0 +1,6 @@
+c:\users\julian\documents\visual studio 2015\Projects\Taschenrechner 1.0\Taschenrechner 1.0\bin\Debug\Taschenrechner 1.0.exe.config
+c:\users\julian\documents\visual studio 2015\Projects\Taschenrechner 1.0\Taschenrechner 1.0\bin\Debug\Taschenrechner 1.0.exe
+c:\users\julian\documents\visual studio 2015\Projects\Taschenrechner 1.0\Taschenrechner 1.0\bin\Debug\Taschenrechner 1.0.pdb
+c:\users\julian\documents\visual studio 2015\Projects\Taschenrechner 1.0\Taschenrechner 1.0\obj\Debug\Taschenrechner 1.0.csprojResolveAssemblyReference.cache
+c:\users\julian\documents\visual studio 2015\Projects\Taschenrechner 1.0\Taschenrechner 1.0\obj\Debug\Taschenrechner 1.0.exe
+c:\users\julian\documents\visual studio 2015\Projects\Taschenrechner 1.0\Taschenrechner 1.0\obj\Debug\Taschenrechner 1.0.pdb
